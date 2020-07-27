@@ -1,5 +1,5 @@
 //calc.cpp
-//Калькулятор
+//Калькулятор тест
 #include <iostream>
 #include <io.h>
 #include <Windows.h>
